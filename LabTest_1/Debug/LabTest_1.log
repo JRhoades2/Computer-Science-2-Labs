@@ -1,0 +1,5 @@
+﻿  test1p2.cpp
+graphLib2017.lib(BMPLoader.obj) : warning LNK4099: PDB 'graphLib2017.pdb' was not found with 'graphLib2017.lib(BMPLoader.obj)' or at 'C:\Users\jorda\Desktop\CS2Lab\LabTest_1\Debug\graphLib2017.pdb'; linking object as if no debug info
+graphLib2017.lib(example2.obj) : warning LNK4099: PDB 'graphLib2017.pdb' was not found with 'graphLib2017.lib(example2.obj)' or at 'C:\Users\jorda\Desktop\CS2Lab\LabTest_1\Debug\graphLib2017.pdb'; linking object as if no debug info
+graphLib2017.lib(loadPng.obj) : warning LNK4099: PDB 'graphLib2017.pdb' was not found with 'graphLib2017.lib(loadPng.obj)' or at 'C:\Users\jorda\Desktop\CS2Lab\LabTest_1\Debug\graphLib2017.pdb'; linking object as if no debug info
+  LabTest_1.vcxproj -> C:\Users\jorda\Desktop\CS2Lab\LabTest_1\Debug\LabTest_1.exe
