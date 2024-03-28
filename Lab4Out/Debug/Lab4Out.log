@@ -1,0 +1,8 @@
+﻿  lab4out.cpp
+c:\users\jorda\desktop\cs2lab\lab4out\lab4out.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\jorda\desktop\cs2lab\lab4out\lab4out.cpp(138): warning C4018: '<': signed/unsigned mismatch
+c:\users\jorda\desktop\cs2lab\lab4out\lab4out.cpp(166): warning C4018: '<': signed/unsigned mismatch
+c:\users\jorda\desktop\cs2lab\lab4out\lab4out.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\jorda\desktop\cs2lab\lab4out\lab4out.cpp(211): warning C4018: '<': signed/unsigned mismatch
+c:\users\jorda\desktop\cs2lab\lab4out\lab4out.cpp(227): warning C4018: '<': signed/unsigned mismatch
+  Lab4Out.vcxproj -> C:\Users\jorda\Desktop\CS2Lab\Lab4Out\Debug\Lab4Out.exe
