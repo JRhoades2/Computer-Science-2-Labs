@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="graphLib2017.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="lab2out.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="back.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="c2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="c3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="c4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="c5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="c6.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="c7.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="c8.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="c9.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="c10.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="c11.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="c12.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="c13.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="c14.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="d2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="d3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="d4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="d5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="d6.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="d7.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="d8.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="d9.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="d10.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="d11.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="d12.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="d13.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="d14.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="h2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="h3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="h4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="h5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="h6.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="h7.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="h8.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="h9.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="h10.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="h11.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="h12.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="h13.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="h14.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="s2.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="s3.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="s4.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="s5.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="s6.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="s7.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="s8.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="s9.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="s10.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="s11.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="s12.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="s13.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="s14.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="smiley1.bmp">
+      <Filter>Source Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
